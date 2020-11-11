@@ -390,8 +390,8 @@ retention = min_age + (-max_age + min_age) * pow((file_size / max_size - 1), 3)
 ABUSE
 -----
 
-If you would like to request permanent deletion, please contact lachs0r via
-IRC on Freenode, or send an email to lachs0r@(this domain).
+If you would like to request permanent deletion, please contact l0bster via
+irc.l0bster.ru, or send an email to 0x0@underd0g.co.
 
 Please allow up to 24 hours for a response.
 </pre>
